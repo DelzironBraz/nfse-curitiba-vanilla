@@ -1,0 +1,20 @@
+{
+  "name": "nsfe",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "fs": "^0.0.1-security",
+    "soap": "^1.1.7",
+    "xml-crypto": "^6.0.0",
+    "xmlbuilder2": "^3.1.1"
+  }
+}
